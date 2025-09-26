@@ -1,16 +1,32 @@
-## Hi there 👋
+# Andreu Tortosa Martinez
+- **Población:** Ontinyent
+- **Fecha de nacimiento:** 13/10/2006
+
+---
+
 ![imagen](https://i.imgur.com/iBKk68W.jpeg)
-<!--
-**elnubmaspro/elnubmaspro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Catador **profesional** de *bocadillos y hamburguesas*. Titulado en grado medio **SMR** y estudiante de **DAM**. No soy músico pero bien que sé *tocar los cojones* 😈.
+
+---
+
+1. Programador *(trabajar poco, cobrar bastante)*
+2. Youtuber *(Trabajar menos, cobrar si hay suerte)*
+3. Político *(No trabajar, cobrar más aún)*
+4. Desarrollador de videojuegos *(trabajar 16h diarias, no cobrar)*
+---
+> Sin ánimo de lucro, ¿tú que prefieres, una pizza o una tortilla de patatas?. Hombree... tú me entiendes, ¿no? Sin ánimo de lucro.
+
+---
+
+|Áreas|Conocimientos|
+|---|---|
+|Programación |Python, java|
+|Web|Html, CSS|
+|Comida|Bocadillos, hamburguesa, macarrones|
+
+---
+
+[👉web divertida aquí👈](https://djblue.github.io/tetris/)
