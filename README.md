@@ -16,7 +16,13 @@ Catador **profesional** de *bocadillos y hamburguesas*. Titulado en grado medio 
 2. Youtuber *(Trabajar menos, cobrar si hay suerte)*
 3. Político *(No trabajar, cobrar más aún)*
 4. Desarrollador de videojuegos *(trabajar 16h diarias, no cobrar)*
+
 ---
+
+`HelloWorld("Print")` 🤯
+
+---
+
 > Sin ánimo de lucro, ¿tú que prefieres, una pizza o una tortilla de patatas?. Hombree... tú me entiendes, ¿no? Sin ánimo de lucro.
 
 ---
